@@ -1,0 +1,14 @@
+body {
+    background-color: #333;
+    color: #fff;
+    /* font-family: 'Roboto'; */
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+    transition: all 0.2 ease-out;
+    :hover {
+        opacity: 0.6;
+    }
+}
